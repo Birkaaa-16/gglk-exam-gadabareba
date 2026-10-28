@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+nav {
+  background-color: #333;
+  padding: 20px;
+  display: flex;
+  gap: 25px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: orange;
+}
+
+div {
+  padding: 10px;
+}
+
+h1 {
+  color: #333;
+}
